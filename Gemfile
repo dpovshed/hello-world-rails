@@ -50,7 +50,7 @@ group :test do
   gem 'webdrivers'
 end
 
-group :productin do
+group :production do
   #add pg to allow PostgreSQL to talk to Rails for Heroku deployment
   gem 'pg', '1.2.3'
 end
