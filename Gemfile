@@ -116,4 +116,4 @@ gem "symmetric-encryption"
 gem "wicked_pdf"
 gem "wkhtmltopdf-binary"
 
-gem "sqlite3"
+gem "sqlite3", ">= 1.5.1", "< 1.6"
