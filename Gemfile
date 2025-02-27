@@ -115,3 +115,5 @@ gem "mainstreet", "~> 0.2.3"
 gem "symmetric-encryption"
 gem "wicked_pdf"
 gem "wkhtmltopdf-binary"
+
+gem "sqlite3"

@@ -591,6 +591,7 @@ DEPENDENCIES
   sidekiq-throttled
   spring
   spring-watcher-listen (~> 2.0.0)
+  sqlite3
   symmetric-encryption
   timecop
   turbolinks (~> 5)
